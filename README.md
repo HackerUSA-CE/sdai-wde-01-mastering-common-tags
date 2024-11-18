@@ -1,7 +1,9 @@
-# Melody Sky - Links, Images, Text, and More
+# Melody Sky - Links, Images, Text and More
+
+![Screenshot of the finished webpage](assets//images//complete.png)
 
 ## Description 📄
-In this lab, we will create the basic structure of an HTML document for a musician's website for Melody Sky. This includes adding a navigation bar using an unordered list.
+In this lab, we will create the basic structure of a website for musician Melody Sky. You will create a well structured HTML document that will include a navigation bar and an unordered list.
 
 ---
 
@@ -22,21 +24,11 @@ In this lab, we will create the basic structure of an HTML document for a musici
 4. [ ] Inside the `body` tag, create a header with the text: `Welcome to Melody Sky's Official Website`.
 5. [ ] Create a navbar using an unordered list with links to `Home`, `Music`, and `Tour`.
 6. [ ] Add a paragraph with the text: `Explore the music, videos, and latest updates from Melody Sky.`
-7. [ ] Create a directory called `assets` and another directory called `images` inside the newly created `assets` directory.
-8. [ ] Download a relevant image and place it in the `images` directory. Place that image on under the `<p>` tag.
+7. [ ] Download a relevant image and place it in the `assets/images` directory. Place that image on under the `<p>` tag.
 
 
 🎊 **Great job! You've completed the basic structure for Melody Sky's website.** 🎊
 
 ---
-
-### Solution codebase 👀
-🛑 **Only use this as a reference** 🛑
-
-💾 **Not something to copy and paste** 💾
-
-**Note:**  This lab references a solution file located [here](https://github.com/HackerUSA-CE/sdai-wde-d1-melody-sky-demo/blob/solution/index.html) (link not shown).
-
----
-
 © All rights reserved to ThriveDX
+
